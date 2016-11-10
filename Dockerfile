@@ -3,3 +3,5 @@ RUN npm install -g yarn
 WORKDIR /app
 ADD ./ ./
 RUN yarn
+
+CMD npm start
