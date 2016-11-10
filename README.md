@@ -9,3 +9,8 @@ Build this image with the following cmd:
 ```
 docker build -t "yourtag/node-log-chaos" .
 ```
+
+And then run with
+```
+▶ docker run "yourtag/node-log-chaos"
+```
