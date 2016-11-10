@@ -9,6 +9,7 @@
   "author": "Nicklas Laine Overgaard <nicklas@skarp.dk>",
   "license": "ISC",
   "dependencies": {
+    "bunyan": "^1.8.4",
     "superagent": "^2.3.0"
   }
 }
