@@ -7,7 +7,7 @@ Written in order to test docker json log collector and the using FileBeats to sh
 
 Build this image with the following cmd:
 ```
-docker build -t "yourtag/node-log-chaos" .
+▶ docker build -t "yourtag/node-log-chaos" .
 ```
 
 And then run with
